@@ -160,7 +160,7 @@ docker compose create && docker compose up
 
 ```bash
 docker compose --profile cpu pull
-docker compose create && docker compose --profile cpu up
+docker compose create && docker compose --profile cpu up -d
 ```
 
 ## 👓 Recommended reading
